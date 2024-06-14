@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plusOne", "plusOne\plusOne.csproj", "{655538CC-CC38-4793-B5D6-7E41630892BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{6BAF5495-1219-4BC8-9B6F-76F5AF1F09E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{655538CC-CC38-4793-B5D6-7E41630892BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{655538CC-CC38-4793-B5D6-7E41630892BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{655538CC-CC38-4793-B5D6-7E41630892BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAF5495-1219-4BC8-9B6F-76F5AF1F09E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAF5495-1219-4BC8-9B6F-76F5AF1F09E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAF5495-1219-4BC8-9B6F-76F5AF1F09E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAF5495-1219-4BC8-9B6F-76F5AF1F09E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
