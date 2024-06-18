@@ -1,0 +1,15 @@
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/bin/Debug/net8.0/NumsGoodPairs
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/bin/Debug/net8.0/NumsGoodPairs.deps.json
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/bin/Debug/net8.0/NumsGoodPairs.runtimeconfig.json
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/bin/Debug/net8.0/NumsGoodPairs.dll
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/bin/Debug/net8.0/NumsGoodPairs.pdb
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.AssemblyInfoInputs.cache
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.AssemblyInfo.cs
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.csproj.CoreCompileInputs.cache
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.sourcelink.json
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.dll
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/refint/NumsGoodPairs.dll
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.pdb
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/NumsGoodPairs.genruntimeconfig.cache
+/Users/anngo/appAcademy/challenges/NumsGoodPairs/obj/Debug/net8.0/ref/NumsGoodPairs.dll
