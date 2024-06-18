@@ -1,0 +1,15 @@
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.AssemblyInfoInputs.cache
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.AssemblyInfo.cs
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.csproj.CoreCompileInputs.cache
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.sourcelink.json
+/Users/anngo/appAcademy/challenges/printStars/bin/Debug/net8.0/printStars
+/Users/anngo/appAcademy/challenges/printStars/bin/Debug/net8.0/printStars.deps.json
+/Users/anngo/appAcademy/challenges/printStars/bin/Debug/net8.0/printStars.runtimeconfig.json
+/Users/anngo/appAcademy/challenges/printStars/bin/Debug/net8.0/printStars.dll
+/Users/anngo/appAcademy/challenges/printStars/bin/Debug/net8.0/printStars.pdb
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.dll
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/refint/printStars.dll
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.pdb
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/printStars.genruntimeconfig.cache
+/Users/anngo/appAcademy/challenges/printStars/obj/Debug/net8.0/ref/printStars.dll
