@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "islandArea", "islandArea\is
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNums", "AddTwoNums\AddTwoNums.csproj", "{B3969129-1AE7-4948-97AA-886313F94101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLists", "MergeLists\MergeLists.csproj", "{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{B3969129-1AE7-4948-97AA-886313F94101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3969129-1AE7-4948-97AA-886313F94101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3969129-1AE7-4948-97AA-886313F94101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
