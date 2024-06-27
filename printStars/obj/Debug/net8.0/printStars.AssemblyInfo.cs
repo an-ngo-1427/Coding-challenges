@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("printStars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5fac6acb2f1d0db7a523a529bd834a3e916390")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12674a067b8ff67107aeac51deedc63ba155198f")]
 [assembly: System.Reflection.AssemblyProductAttribute("printStars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("printStars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
