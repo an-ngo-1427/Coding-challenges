@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLists", "MergeLists\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapPairs", "SwapPairs\SwapPairs.csproj", "{359AA243-ACEA-425D-97E7-A95E1F63DDC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDupsList", "RemoveDupsList\RemoveDupsList.csproj", "{A4E2C8BE-7434-408C-8A5B-398BCF473465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E2C8BE-7434-408C-8A5B-398BCF473465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E2C8BE-7434-408C-8A5B-398BCF473465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E2C8BE-7434-408C-8A5B-398BCF473465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E2C8BE-7434-408C-8A5B-398BCF473465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
