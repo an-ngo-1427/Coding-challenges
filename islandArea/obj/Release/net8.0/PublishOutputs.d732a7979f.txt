@@ -1,0 +1,5 @@
+/Users/anngo/appAcademy/challenges/bin/Publish/islandArea
+/Users/anngo/appAcademy/challenges/bin/Publish/islandArea.dll
+/Users/anngo/appAcademy/challenges/bin/Publish/islandArea.deps.json
+/Users/anngo/appAcademy/challenges/bin/Publish/islandArea.runtimeconfig.json
+/Users/anngo/appAcademy/challenges/bin/Publish/islandArea.pdb

@@ -1,0 +1,5 @@
+/Users/anngo/appAcademy/challenges/bin/Publish/printStars
+/Users/anngo/appAcademy/challenges/bin/Publish/printStars.dll
+/Users/anngo/appAcademy/challenges/bin/Publish/printStars.deps.json
+/Users/anngo/appAcademy/challenges/bin/Publish/printStars.runtimeconfig.json
+/Users/anngo/appAcademy/challenges/bin/Publish/printStars.pdb

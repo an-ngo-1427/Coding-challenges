@@ -1,0 +1,5 @@
+/Users/anngo/appAcademy/challenges/bin/Publish/ConcatArr
+/Users/anngo/appAcademy/challenges/bin/Publish/ConcatArr.dll
+/Users/anngo/appAcademy/challenges/bin/Publish/ConcatArr.deps.json
+/Users/anngo/appAcademy/challenges/bin/Publish/ConcatArr.runtimeconfig.json
+/Users/anngo/appAcademy/challenges/bin/Publish/ConcatArr.pdb

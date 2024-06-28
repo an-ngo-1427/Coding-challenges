@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNums", "AddTwoNums\Ad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLists", "MergeLists\MergeLists.csproj", "{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapPairs", "SwapPairs\SwapPairs.csproj", "{359AA243-ACEA-425D-97E7-A95E1F63DDC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC0A0F35-500E-4F14-83BB-3D017D6F9F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359AA243-ACEA-425D-97E7-A95E1F63DDC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
