@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveDupsList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10c8b84fa273523754aad30ddd5abdb3a5f29110")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8de40c7e1d6c148c5276ce39a8362aa9810dafba")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoveDupsList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveDupsList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
