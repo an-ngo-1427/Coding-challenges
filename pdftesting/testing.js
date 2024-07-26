@@ -8,5 +8,4 @@ pdfExtract.extract('coverletter.pdf', options, (err, data) => {
   for( let obj of strObj){
       string += obj['str']
     }
-    console.log('this is string',string)
 });
