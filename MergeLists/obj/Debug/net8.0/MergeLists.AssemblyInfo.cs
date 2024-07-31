@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05856b78df71a5619e9710f83b785b0bfa079b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b9dc9e7bf4c90f5c94162db526745f7514879a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
