@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("islandArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e67dbc16fe2aa5e8143cfb7190bcde98610266d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0274842d96030dafc15b0f9b376c8da4cbcc31b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("islandArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("islandArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
