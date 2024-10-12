@@ -10,10 +10,8 @@ class Solution:
                 i+=1
 
             j = i + 1
-            print('this is sorted',i,j)
 
             while(j < k):
-                print('this is num',j,k)
                 total = sortedNums[i] + sortedNums[j] + sortedNums[k]
 
                 if(total == 0):
@@ -36,8 +34,6 @@ class Solution:
 
             k = len(nums) - 1
             i += 1
-
-        print(res)
         return res
 
     threeSum([-1,0,1,2,-1,-4])
