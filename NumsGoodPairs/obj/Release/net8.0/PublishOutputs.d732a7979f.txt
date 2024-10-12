@@ -1,5 +1,0 @@
-/Users/anngo/appAcademy/challenges/bin/Publish/NumsGoodPairs
-/Users/anngo/appAcademy/challenges/bin/Publish/NumsGoodPairs.dll
-/Users/anngo/appAcademy/challenges/bin/Publish/NumsGoodPairs.deps.json
-/Users/anngo/appAcademy/challenges/bin/Publish/NumsGoodPairs.runtimeconfig.json
-/Users/anngo/appAcademy/challenges/bin/Publish/NumsGoodPairs.pdb

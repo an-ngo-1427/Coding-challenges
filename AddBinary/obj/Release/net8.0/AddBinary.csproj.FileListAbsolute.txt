@@ -1,5 +1,0 @@
-/Users/anngo/appAcademy/challenges/AddBinary/obj/Release/net8.0/AddBinary.GeneratedMSBuildEditorConfig.editorconfig
-/Users/anngo/appAcademy/challenges/AddBinary/obj/Release/net8.0/AddBinary.AssemblyInfoInputs.cache
-/Users/anngo/appAcademy/challenges/AddBinary/obj/Release/net8.0/AddBinary.AssemblyInfo.cs
-/Users/anngo/appAcademy/challenges/AddBinary/obj/Release/net8.0/AddBinary.csproj.CoreCompileInputs.cache
-/Users/anngo/appAcademy/challenges/AddBinary/obj/Release/net8.0/AddBinary.sourcelink.json

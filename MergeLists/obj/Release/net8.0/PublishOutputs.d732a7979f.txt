@@ -1,5 +1,0 @@
-/Users/anngo/appAcademy/challenges/bin/Publish/MergeLists
-/Users/anngo/appAcademy/challenges/bin/Publish/MergeLists.dll
-/Users/anngo/appAcademy/challenges/bin/Publish/MergeLists.deps.json
-/Users/anngo/appAcademy/challenges/bin/Publish/MergeLists.runtimeconfig.json
-/Users/anngo/appAcademy/challenges/bin/Publish/MergeLists.pdb
