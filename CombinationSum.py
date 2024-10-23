@@ -25,6 +25,6 @@ class Solution:
 
         print(ans)
 
-    combinationSum([2,3,6,7],7)
+    # combinationSum([2,3,6,7],7)
     combinationSum([2,3,5],8)
-    combinationSum([2],1)
+    # combinationSum([2],1)
