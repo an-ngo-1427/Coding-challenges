@@ -6,21 +6,18 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        left = 0
-        right = len(nums) - 1
-        while(left <= right):
-            mid = (left + right) //2
-            if(nums[mid] == target):
-                return mid
-            if(target < nums[mid]):
-                right = mid -1
+        l = 0
+        r = len(nums) - 1
+        replacedIndex = -1
+        while(l <= r):
+            m = (l + r) //2
+            if(target == nums[m]):
+                return m
+            elif(target < nums[m]):
+                r = m - 1
+                replacedIndex = m
             else:
-                left = mid + 1
-            
-       
-        if(target < nums[mid] and mid != 0):
-            return mid - 1
-        elif(target > nums[mid] and mid != 0):
-            return mid + 1
-        
-        return 0
+                l = m + 1
+                replacedIndex = m + 1
+
+        return replacedIndex
