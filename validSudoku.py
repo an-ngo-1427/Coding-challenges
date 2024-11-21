@@ -7,7 +7,6 @@ class Solution(object):
         rowDict = {}
         colDict = {}
         subBoxDict = {}
-        boxCoorDict = {}
         for i in range(len(board)):
             for j in range(len(board[i])):
                 if board[i][j] == '.':
