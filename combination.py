@@ -22,3 +22,19 @@ class Solution(object):
 
         dfs(0,[],0)
         return result
+    
+    def combinationSum1(self,candidates,target):
+        result = []
+        def dfs(start,combs,target):
+            if(target == 0):
+                result.append(list(combs))
+                return
+            for i in range(start,len(candidates)):
+                if(candidates[i] > target):
+                    continue
+                combs.append(candidates[i])
+                dfs(i,combs,target - candidates[i])
+                combs.pop()
+        
+        dfs(0,[],target)
+        return result
