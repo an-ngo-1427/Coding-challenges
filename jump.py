@@ -4,18 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        def dfs (nums,steps,currIndex):
-            minSteps = float('inf')
-            if(currIndex >= len(nums) - 1):
-                return steps
-            steps = steps + 1
-
-            for i in range(1,nums[currIndex] + 1):
-                pathSteps = dfs(nums,steps,currIndex + i)
-                if(pathSteps < minSteps):
-                    minSteps = pathSteps
-            
-            return minSteps
+        end,far = 0,0
+        smallest = 0
+        for i in range(len(nums)-1):
+            far = max(far,nums[i] + i)
+            if(i == end):
+                smallest = smallest + 1
+                end = far
         
-        totalSteps = dfs(nums,0,0)
-        return totalSteps
+        return smallest
